@@ -8,5 +8,9 @@ TYPO3:
             entryPoint: 'WebRedirect'
             entryPointOptions: 
               uri: 'index'
-              
-          
+
+FLOW3:
+  Facebook:
+    API:
+      appId: ''
+      secret: ''
